@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33317066/README.md)
+
 # Quantizing-Qwen3-0.6B-with-GPTQ-W4A16-and-serving-it-with-vLLM# Quantizing Qwen3-0.6B with GPTQ (W4A16) and serving it with vLLM
 
 **What does 4-bit quantization actually change when you serve an LLM?**
