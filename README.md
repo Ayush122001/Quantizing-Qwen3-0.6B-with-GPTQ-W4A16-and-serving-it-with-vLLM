@@ -1,5 +1,4 @@
-
-# Quantizing-Qwen3-0.6B-with-GPTQ-W4A16-and-serving-it-with-vLLM# Quantizing Qwen3-0.6B with GPTQ (W4A16) and serving it with vLLM
+# Quantizing Qwen3-0.6B with GPTQ (W4A16) and serving it with vLLM
 
 **What does 4-bit quantization actually change when you serve an LLM?**
 This repo quantizes Qwen3-0.6B with GPTQ (W4A16), then compares it against the original BF16 model on three things: model size, accuracy, and serving performance under load with vLLM.
