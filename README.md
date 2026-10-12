@@ -5,7 +5,7 @@ This repo quantizes Qwen3-0.6B with GPTQ (W4A16), then compares it against the o
 
 A small model was chosen on purpose. The goal was to run the full pipeline cheaply (quantize → evaluate → serve → load-test) and observe each trade-off directly, not to build a production model.
 
-📝 **Full write-up:** [LinkedIn article](ARTICLE_LINK)
+📝 **Full write-up:** [LinkedIn article](https://www.linkedin.com/pulse/training-one-time-bill-serving-forever-what-4-bit-actually-ganatra-oyjgf/)
 
 ![Inter-token latency vs request rate](images/itl_vs_request_rate.png)
 
